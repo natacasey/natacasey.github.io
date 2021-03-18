@@ -6,8 +6,8 @@ My projects:
 - [IMDb Movies Rating Analysis](https://github.com/natacasey/Exploratory-Data-Analysis)
 - [Data Wrangling.Marvel Comic Characters](https://github.com/natacasey/Data-Wrangling)
 - [Classification analysis. Popular Hallowen Candy: Chocolate or not?](https://github.com/natacasey/Data_Mining_Case_Study)
-- Customer Chrun Prediction with deep learning
-- Analysis of Children's Health based UNICEF data. 
+- Customer Churn Prediction with deep learning
+- Analysis of Children's Health based on UNICEF data. 
 - Sentiment Analysis of Reviews
 - Text Summarization
 - Predicting Russian text categories

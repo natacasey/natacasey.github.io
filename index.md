@@ -1,4 +1,4 @@
-I am a localization specialist with passion for technology and data analysis. Even though I enjoy various types of data analysis, working with text data is my favorite. 
+I am a localization specialist with a passion for technology and data analysis. Even though I enjoy various types of data analysis, working with text data is my favorite. 
 
 My projects:
 - [Weather Report using API from OpenWeatherMap](https://github.com/natacasey/Introduction-to-Programming-Python-)

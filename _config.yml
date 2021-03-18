@@ -1,9 +1,4 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-cayman
 title: Natallia's Portfolio
 description: Language specialist using data science 
-owner: 
-  name: Natallia Casey
-  email: natacasey@outlook.com
-  linkedin_username: natallia-casey-96b34264
-  github_username: natacasey
-show_excerpts: true # set to false to remove excerpts on the homepage
+

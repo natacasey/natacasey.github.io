@@ -10,7 +10,7 @@ My projects:
 - Analysis of Children's Health based on data from UNICEF.
 - Sentiment Analysis of Reviews
 - Text Summarization
-- Predicting Russian text categories
+- Predicting categories of Russian text data.
 
 
 

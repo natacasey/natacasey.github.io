@@ -4,4 +4,7 @@ description: Language specialist in love with data science
 github_username: natacasey
 email: natacasey@domain.com
 linkedin_username: #natallia-casey-96b34264
+minima:
+  social_links:
+    linkedin: natallia-casey-96b34264
 

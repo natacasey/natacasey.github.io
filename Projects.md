@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 ---
-My projects:
+
 - [Weather Report using API from OpenWeatherMap](https://github.com/natacasey/Introduction-to-Programming-Python-)
 - [Predicting Life Expectancy](https://github.com/natacasey/Statistics-with-R)
 - [IMDb Movies Rating Analysis](https://github.com/natacasey/Exploratory-Data-Analysis)

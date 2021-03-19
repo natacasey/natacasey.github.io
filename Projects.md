@@ -2,8 +2,6 @@
 layout: page
 title: Projects
 ---
-I am a localization specialist with a passion for technology and data analysis. 
-
 My projects:
 - [Weather Report using API from OpenWeatherMap](https://github.com/natacasey/Introduction-to-Programming-Python-)
 - [Predicting Life Expectancy](https://github.com/natacasey/Statistics-with-R)

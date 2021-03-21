@@ -3,9 +3,9 @@ layout: page
 title: Projects
 ---
 
-- [Weather Report using API from OpenWeatherMap](https://github.com/natacasey/Introduction-to-Programming-Python-)
+- [Weather Report using API from OpenWeatherMap](https://github.com/natacasey/Weather_Report_with_OpenWeatherMap)
 - [Predicting Life Expectancy](https://github.com/natacasey/Statistics-with-R)
-- [IMDb Movies Rating Analysis](https://github.com/natacasey/Exploratory-Data-Analysis)
+- [IMDb Movies Rating Analysis](https://github.com/natacasey/IMDb_Movie_Rating_Analysis)
 - [Wrangling Marvel Data with Python](https://github.com/natacasey/Wrangling_Marvel_Data_with_Python)
 - [Classification analysis. Popular Hallowen Candy: Chocolate or not?](https://github.com/natacasey/Data_Mining_Case_Study)
 - Customer Churn Prediction

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Work
 ---
 
 - [Weather Report with OpenWeatherMap API Using Python](https://github.com/natacasey/Weather_Report_with_OpenWeatherMap_Using_Python)

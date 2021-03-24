@@ -9,7 +9,7 @@ title: Work
 - [Wrangling Marvel Data with Python](https://github.com/natacasey/Wrangling_Marvel_Data_with_Python)
 - [Candy Classification Analysis with Python](https://github.com/natacasey/Candy_Classification_with_Python)
 - Customer Churn Prediction
-- [Analysis of the State of Children's Health](https://github.com/natacasey/Health_of_Children_of_the_World_with_Tableau)
+- [Analysis of the State of Children's Health with Tableau](https://github.com/natacasey/Health_of_Children_of_the_World_with_Tableau)
 - Sentiment Analysis of Reviews
 - Text Summarization
 - Predicting Russian text categories

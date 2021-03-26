@@ -10,7 +10,7 @@ title: Work
 - [Predicting Customer Churn due to Personal Data Use with Neural Network Classifier](https://github.com/natacasey/Customer_Churn_Prediction_with_Python)
 - [Life Expectancy Prediction with R](https://github.com/natacasey/Life_Expectancy_Prediction_Project_with_R)
 - [Weather Report with OpenWeatherMap API Using Python](https://github.com/natacasey/Weather_Report_with_OpenWeatherMap_Using_Python)
-- 
+
  # Upcoming projects
 - Sentiment Analysis of Reviews with Topic Modeling
 - Text Summarization

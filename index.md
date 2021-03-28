@@ -1,6 +1,6 @@
 
-I am a localization specialist with a passion for technology and data analysis. 
+Hello!
 
-
-
-
+I am a language specialist with a passion for technology and data analysis 
+                         located in Denver, Colorado. 
+                                              

@@ -1,5 +1,6 @@
 ---
 layout: page
+title: About
 ---
 
 I am a language specialist in love with data science who has been working for TuneIn for the past 9 years helping to adapt the product for the international markets. 

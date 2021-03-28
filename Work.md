@@ -16,4 +16,4 @@ title: Work
 - Sentiment Analysis of Reviews with Topic Modeling
 - Text Summarization
 - Predicting Russian text categories
-- Predicting German text categories
+

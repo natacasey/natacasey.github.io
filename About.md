@@ -5,7 +5,7 @@ title: About
 
 I am a language specialist in love with data science who has been working for TuneIn for the past 9 years helping to adapt the product for the international markets. 
 
-I believe in effectiveness of data-driven strategies for decision-making when complying with privacy and ethics regulations. 
+I believe in effectiveness of data-driven strategies for decision-making when complying with the privacy and ethics regulations. 
 
 My biggest passion is working with text data.
 

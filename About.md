@@ -13,6 +13,6 @@ As a first-generation immigrant I speak several langauges (Russian, Belarusian a
 
 My education:
 - 2019-2021 - Master of Science, Data Science, Bellevue University
-- 2018 - Localization Project Managemnet Certificate, Localization Institute
+- 2018 - Localization Project Management Certificate, Localization Institute
 - 2008-2009 - Master of Business Administration, Belarusian State University of Culture and Arts
 - 2004-2008 - Bachelor of Education, Minsk State Linguistics University

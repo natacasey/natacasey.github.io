@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Natallia's Profile
+title: 
 ---
 Hello!
 

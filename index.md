@@ -4,10 +4,10 @@ title:
 ---
 
 
-## Natallia Casey
+# Natallia Casey
 
-## I am a language specialist with a passion for technology and data analysis
+# Linguistics + Data Science
 
-## Located in Denver, Colorado
+# Located in Denver, Colorado
                          
                

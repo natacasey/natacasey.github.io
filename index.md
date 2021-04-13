@@ -2,7 +2,7 @@
 layout: home
 title: 
 ---
-![picture](https://github.com/natacasey/sentiment_analysis_with_topic_modeling_of_Google_Play_reviews/blob/main/_assets/sentiment.png)
+![picture](https://github.com/natacasey/Life_Expectancy_Prediction_Project_with_R/blob/master/_assets/predictions.gif)
 
 Linguistics + Data Science
 

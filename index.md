@@ -7,6 +7,6 @@ title:
 
 <p align="center"> A linguist with a passion for technology and data analysis
 <br/>
-*Located in Denver, Colorado*
+Located in Denver, Colorado
 </p>                        
                

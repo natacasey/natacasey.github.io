@@ -3,11 +3,8 @@ layout: home
 title: 
 ---
 
+Linguistics + Data Science
 
-# Natallia Casey
-
-# Linguistics + Data Science
-
-# Located in Denver, Colorado
+Located in Denver, Colorado
                          
                

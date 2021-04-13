@@ -4,12 +4,9 @@ title:
 ---
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 
-A linguist with a passion for technology and data analysis
+<p align="center"> A linguist with a passion for technology and data analysis
 <br/>
 *Located in Denver, Colorado*
-                         
+</p>                        
                

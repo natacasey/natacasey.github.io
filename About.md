@@ -16,3 +16,8 @@ My education:
 - 2018 - Localization Project Management Certificate, Localization Institute
 - 2008-2009 - Master of Business Administration, Belarusian State University of Culture and Arts
 - 2004-2008 - Bachelor of Education, Minsk State Linguistics University
+
+I have always enjoyed volunteering my time and knowledge:
+
+- 2021 | Marketing Manager of Women in Localization Colorado
+- 2015-2016 | ESL and Resettlement Volunteer of Colorado Refugee ESL Program

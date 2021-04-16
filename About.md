@@ -19,5 +19,5 @@ My education:
 
 I have always enjoyed volunteering my time and knowledge:
 
-- 2021 | Marketing Manager of Women in Localization Colorado
-- 2015-2016 | ESL and Resettlement Volunteer of Colorado Refugee ESL Program
+- 2021 - Volunteer Marketing Manager of Women in Localization Colorado
+- 2015-2016 - ESL and Resettlement Volunteer of Colorado Refugee ESL Program

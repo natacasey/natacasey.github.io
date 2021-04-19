@@ -2,6 +2,8 @@
 layout: page
 title: My work
 ---
+- [Sentiment Analysis with Topic Modeling Using Python](https://github.com/natacasey/Sentiment_Analysis_with_Topic_Modeling_using_Python)<br>
+Relying on the data scraped from the Google Play reviews of TuneIn Radio this project examines the overall sentiment of TuneIn Radio, the trends of the sentiment and the aspect-based sentiment of the application with the help of topic modeling with LDA, multiclass calssification models such as Logistic Regression, CNN, bidirectional LSTM, Random Forest, XGBoost, and Support Vector Machines.<br>
 
 - [Wrangling Marvel Data with Python](https://github.com/natacasey/Wrangling_Marvel_Data_with_Python)<br>
 The focus of this project is wrangling the data related to Marvel comic characters. The data from three sources (a flat csv file, ComicVine API, and the website marvel.com) is processed using pandas, regex, fuzzy matching, deduplication and other techniques, merged and loaded into an SQLite database.<br>
@@ -24,8 +26,6 @@ Relying on the data put together by WHO and the United Nations, this project exa
 - [Weather Report with OpenWeatherMap API Using Python](https://github.com/natacasey/Weather_Report_with_OpenWeatherMap_Using_Python)<br>
 The goal of this project is to create a program that gets data from an open API OpenWeatherMap and presents a user with a weather report. The user needs to specify either a zip code or a city to get the results for a specific location. The report can be generated multiple times until a user gives a command to stop the program.<br>
 
-- [Sentiment Analysis with Topic Modeling Using Python](https://github.com/natacasey/Sentiment_Analysis_with_Topic_Modeling_using_Python)<br>
-Relying on the data scraped from the Google Play reviews of TuneIn Radio this project examines the overall sentiment of TuneIn Radio, the trends of the sentiment and the aspect-based sentiment of the application with the help of topic modeling with LDA, multiclass calssification models such as Logistic Regression, CNN, bidirectional LSTM, Random Forest, XGBoost, and Support Vector Machines. 
 
   *Upcoming projects:*
   

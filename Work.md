@@ -4,7 +4,7 @@ title: My work
 ---
 
 - [Wrangling Marvel Data with Python](https://github.com/natacasey/Wrangling_Marvel_Data_with_Python)<br>
-The focus of this project is data wrangling using data related to Marvel comic characters. The data from three sources (a flat csv file from kaggle.com, ComicVine API, and the website marvel.com) is processed using pandas, regex, fuzzy matching, deduplication and other techniques, merged and loaded into an SQLite database.<br>
+The focus of this project is wrangling the data related to Marvel comic characters. The data from three sources (a flat csv file from kaggle.com, ComicVine API, and the website marvel.com) is processed using pandas, regex, fuzzy matching, deduplication and other techniques, merged and loaded into an SQLite database.<br>
 
 - [IMDb Movie Rating EDA Analysis with Python](https://github.com/natacasey/IMDb_Movie_Rating_Analysis_with_Python)<br>
 The focus of this project is the EDA analysis of the movie ratings given by users of a movie database IMDb. Hypothesis tests are performed to discover the types of relationships between such factors as gross revenue, budget, number of votes and rating scores. The choice of models for analysis is linear regression models.<br>

@@ -14,6 +14,6 @@ title: Work
 
   *Upcoming projects:*
   
-- Automatic Identification of Languages with a Common Proto-Language
+- Automatic Identification of Related Languages 
 - Predicting Russian text categories
 

@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-
+<img src="https://github.com/natacasey/natacasey.github.io/blob/main/_assets/natallia.png"/>
 I am a language specialist in love with data science who has been working for TuneIn for the past 9 years helping to adapt the product for the international markets. 
 
 I believe in effectiveness of data-driven strategies for decision-making when complying with the privacy and ethics regulations. 

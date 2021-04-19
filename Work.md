@@ -25,7 +25,7 @@ Relying on the data put together by WHO and the United Nations, this project exa
 The goal of this project is to create a program that gets data from an open API OpenWeatherMap and presents a user with a weather report. The user needs to specify either a zip code or a city to get the results for a specific location. The report can be generated multiple times until a user gives a command to stop the program.<br>
 
 - [Sentiment Analysis with Topic Modeling Using Python](https://github.com/natacasey/Sentiment_Analysis_with_Topic_Modeling_using_Python)<br>
-Relying on the data scraped from the Google Play reviews of TuneIn Radio this project examined the overall sentiment of TuneIn Radio, the trends of the sentiment and the aspect-based sentiment of the application with the help of topic modeling with LDA, multiclass calssification models such as logistic regression, CNN, bidirectional LSTM, Random Forest, XGBoost, and Support Vector Machines. Additional evaluation of the models and comparison to the popular sentiment analysis tool Vader and human's sentiment classification was performed on a small balanced data sample.<br>
+Relying on the data scraped from the Google Play reviews of TuneIn Radio this project examined the overall sentiment of TuneIn Radio, the trends of the sentiment and the aspect-based sentiment of the application with the help of topic modeling with LDA, multiclass calssification models such as logistic regression, CNN, bidirectional LSTM, Random Forest, XGBoost, and Support Vector Machines. 
 
   *Upcoming projects:*
   

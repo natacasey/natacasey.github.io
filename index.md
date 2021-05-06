@@ -1,5 +1,5 @@
 ---
-layout: feed
+layout: post
 title: 
 ---
 <br/>

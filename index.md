@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 
+list_title: 'Recent projects '
 ---
 <br/>
 <br/>

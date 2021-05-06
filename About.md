@@ -2,8 +2,8 @@
 layout: page
 title: About
 ---
-<img src ="images/natalliac%20(2).png"><br>
-[Resume](https://github.com/natacasey/natacasey.github.io/blob/main/images/Project%20Manager%20Creative%20Professional%20Resume.pdf)<br>
+<img src ="images/natalliac%20(2).png">   [Resume](https://github.com/natacasey/natacasey.github.io/blob/main/images/Project%20Manager%20Creative%20Professional%20Resume.pdf)<br>
+
 I am a language specialist in love with data science who has been working for TuneIn for the past 9 years helping to adapt the product for the international markets. 
 
 I believe in effectiveness of data-driven strategies for decision-making when complying with the privacy and ethics regulations. 

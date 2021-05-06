@@ -1,9 +1,0 @@
-- name: Home
-  link: /blog.html
-- name: About
-  link: /About.md
- - name: My work
-  link: /Work.md
- - name: Contact
-  link: /Contact.md
-

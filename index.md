@@ -9,12 +9,6 @@ title:
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <span style="color:green"> else:</span><br/>
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; I am open for remote opportunities and please check out my work
 <br/>
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+
                       
           

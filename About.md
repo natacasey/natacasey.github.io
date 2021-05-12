@@ -22,4 +22,4 @@ I have always enjoyed volunteering my time and knowledge:
 - 2021 - Volunteer Marketing Manager of Women in Localization Colorado
 - 2015-2016 - ESL and Resettlement Volunteer of Colorado Refugee ESL Program
 
-For more details please check out [my resume](https://github.com/natacasey/natacasey.github.io/blob/main/images/Project%20Manager%20Creative%20Professional%20Resume%20(2).pdf)
+*For more details please check out [my Resume](https://github.com/natacasey/natacasey.github.io/blob/main/images/Project%20Manager%20Creative%20Professional%20Resume%20(2).pdf)*

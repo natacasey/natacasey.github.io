@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+list_title: ' '
 ---
 <div id="contact">
         <div id="contact-form">

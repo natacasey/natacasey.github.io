@@ -10,8 +10,6 @@ list_title: 'Recent projects '
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; I am open for remote opportunities and please check out my work
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
+
                       
           

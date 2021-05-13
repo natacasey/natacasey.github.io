@@ -8,7 +8,7 @@ Relying on the data from the multilingual Amazon reviews corpus this project foc
 
 - [Sentiment Analysis with Topic Modeling Using Python](https://github.com/natacasey/Sentiment_Analysis_with_Topic_Modeling_using_Python)<br>
 <img src ="images/sentimentan.png"> <br>
-Relying on the data scraped from the Google Play reviews of TuneIn Radio this project examines the overall sentiment of TuneIn Radio, the trends of the sentiment and the aspect-based sentiment of the application with the help of topic modeling with LDA, multiclass calssification models such as Logistic Regression, CNN, bidirectional LSTM, Random Forest, XGBoost, and Support Vector Machines.<br>
+Relying on the data scraped from the Google Play reviews of TuneIn Radio this project examines the overall sentiment of TuneIn Radio, the trends of the sentiment and the aspect-based sentiment of the application with the help of topic modeling with LDA, multiclass classification models such as Logistic Regression, CNN, bidirectional LSTM, Random Forest, XGBoost, and Support Vector Machines.<br>
 
 - [Wrangling Marvel Data with Python](https://github.com/natacasey/Wrangling_Marvel_Data_with_Python)<br>
 <img src ="images/marvel.png"><br>

@@ -41,6 +41,6 @@ The goal of this project is to create a program that gets data from an open API 
 
   *Upcoming projects:*
   
-- Automatic Identification of Related Languages 
-- Predicting Russian text categories
+- Automatic Identification of Related Languages. Part 2
+
 

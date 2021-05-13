@@ -3,6 +3,7 @@ layout: page
 title: My work
 ---
 - [Sentiment Analysis with Topic Modeling Using Python](https://github.com/natacasey/Sentiment_Analysis_with_Topic_Modeling_using_Python)<br>
+![sentiment](https://github.com/natacasey/natacasey.github.io/blob/main/images/sentimentan.png)<br>
 Relying on the data scraped from the Google Play reviews of TuneIn Radio this project examines the overall sentiment of TuneIn Radio, the trends of the sentiment and the aspect-based sentiment of the application with the help of topic modeling with LDA, multiclass calssification models such as Logistic Regression, CNN, bidirectional LSTM, Random Forest, XGBoost, and Support Vector Machines.<br>
 
 - [Wrangling Marvel Data with Python](https://github.com/natacasey/Wrangling_Marvel_Data_with_Python)<br>

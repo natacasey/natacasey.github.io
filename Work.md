@@ -35,6 +35,7 @@ The goal of the project is to create a model whose recall of the positive class 
 Relying on the data put together by WHO and the United Nations, this project examines the hypotheses about the relationships between such factors as education, BMI, population density, expenditure on health, alcohol consumption and the variable life expectancy with the help of multiple regression analysis. Assumptions of Multiple Linear Regression models are tested.<br>
 
 - [Weather Report with OpenWeatherMap API Using Python](https://github.com/natacasey/Weather_Report_with_OpenWeatherMap_Using_Python)<br>
+<br>
 <img src ="images/weathertrans.png"> <br>
 The goal of this project is to create a program that gets data from an open API OpenWeatherMap and presents a user with a weather report. The user needs to specify either a zip code or a city to get the results for a specific location. The report can be generated multiple times until a user gives a command to stop the program.<br>
 

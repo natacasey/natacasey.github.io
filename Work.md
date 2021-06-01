@@ -2,9 +2,13 @@
 layout: page
 title: My work
 ---
+- [Word-based Language Identification Pipeline](https://github.com/natacasey/Word-based-Language-Identification-Part-2)
+<img src ="images/Pipeline%20(2).png"> <br>
+This project focuses on designing a language identification pipeline that can generalize to unseen domains trained over the large comparable corpus. The project proves that pre-processing data while preserving linguistic nuances of the languages plays a significant role in the ability of a language identifier to perform well even on short texts outside the domain.<br>
+
 - [Automatic Identification of Related Languages ](https://github.com/natacasey/Automatic_Identification_of_Related_Languages)
 <img src ="images/language.png"> <br>
-Relying on the data from the multilingual Amazon reviews corpus this project focuses  on creating a language detector that is capable of recognizing the related languages of English, German, Spanish and French. Informative linguistic features of each of the related languages mentioned above, different text data preprocessing techniques, and such supervised models as Multinomial Naïve Bayes, Logistic Regression, Random Forest, Suppport Vector Machines, and a bidirectional LSTM are used in this project to create a pipeline capable of successfully identifying these languages even on short strings of both informal and formal text data. <br>
+Relying on the data from the multilingual Amazon reviews corpus this project focuses  on creating a language detector that is capable of recognizing the related languages of English, German, Spanish and French. Informative linguistic features of each of the related languages mentioned above, different text data preprocessing techniques, and such supervised models as Multinomial Naïve Bayes, Logistic Regression, Random Forest, Suppport Vector Machines, and a bidirectional LSTM are used in this project to create a pipeline capable of successfully identifying these languages. <br>
 
 - [Sentiment Analysis with Topic Modeling Using Python](https://github.com/natacasey/Sentiment_Analysis_with_Topic_Modeling_using_Python)<br>
 <img src ="images/sentimentan.png"> <br>

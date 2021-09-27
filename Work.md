@@ -6,10 +6,6 @@ title: My work
 <img src ="images/Pipeline%20(2).png"> <br>
 This project focuses on designing a language identification pipeline that can generalize to unseen domains trained over the large comparable corpus. The project proves that pre-processing data while preserving linguistic nuances of the languages plays a significant role in the ability of a language identifier to perform well even on short texts outside the domain.<br>
 
-- [Sentiment Analysis with Topic Modeling Using Python](https://github.com/natacasey/Sentiment_Analysis_with_Topic_Modeling_using_Python)<br>
-<img src ="images/sentimentan.png"> <br>
-Relying on the data scraped from the Google Play reviews of TuneIn Radio this project examines the overall sentiment of TuneIn Radio, the trends of the sentiment and the aspect-based sentiment of the application with the help of topic modeling with LDA, multiclass classification models such as Logistic Regression, CNN, bidirectional LSTM, Random Forest, XGBoost, and Support Vector Machines.<br>
-
 - [Wrangling Marvel Data with Python](https://github.com/natacasey/Wrangling_Marvel_Data_with_Python)<br>
 <img src ="images/marvel.png"><br>
 The focus of this project is wrangling the data related to Marvel comic characters. The data from three sources (a flat csv file, ComicVine API, and the website marvel.com) is processed using pandas, regex, fuzzy matching, deduplication and other techniques, merged and loaded into an SQLite database.<br>

@@ -9,7 +9,7 @@ I believe in effectiveness of data-driven strategies for decision-making when co
 
 My biggest passion is working with text data.
 
-As a first-generation immigrant I speak several langauges (English, Russian, Belarusian and German) and value cultural awareness and diversity. 
+As a first-generation immigrant I speak several languages (English, Russian, Belarusian, and German) and value cultural awareness and diversity. 
 
 My education:
 - 2019-2021 - Master of Science, Data Science, Bellevue University
